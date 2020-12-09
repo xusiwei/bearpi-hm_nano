@@ -23,7 +23,7 @@ lite_component("app") {
         #"A6_kernel_message:message_example",
 
         #"B1_basic_led_blink:led_example",
-        #"B2_basic_button:button_example",
+        "B2_basic_button:button_example",
         #"B3_basic_pwm_led:pwm_example",
         #"B4_basic_adc:adc_example",
         #"B5_basic_i2c_nfc:i2c_example",
@@ -40,7 +40,7 @@ lite_component("app") {
         #"D3_iot_udp_client:udp_client",
         #"D4_iot_tcp_server:tcp_server",
         #"D5_iot_mqtt:iot_mqtt",        
-        "D6_iot_cloud_oc:oc_mqtt",
+        #"D6_iot_cloud_oc:oc_mqtt",
         #"D7_iot_cloud_onenet:onenet_mqtt",
 
 
