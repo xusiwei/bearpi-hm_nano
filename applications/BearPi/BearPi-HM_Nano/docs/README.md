@@ -6,15 +6,15 @@
 | figures  | 资料图库   |
 | quick-start  | 快速上手   |  
 
-# BearPi-HM_Nano快速上手
+# BearPi-HM_Nano 快速上手
 
 
--   [BearPi-HM_Nano开发板快速入门](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板快速入门.md)
-    -   [BearPi-HM_Nano开发板介绍](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板介绍.md)
-    -   [BearPi-HM_Nano源码获取](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/源码获取.md)
-    -   [BearPi-HM_Nano开发搭建环境](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发搭建环境.md)
-    -   [BearPi-HM_Nano开发板如何烧录程序](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板如何烧录程序.md)
-    -   [BearPi-HM_Nano开发板第一个示例程序](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板第一个示例程序.md)
+-   [BearPi-HM_Nano 开发板快速入门](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板快速入门.md)
+    -   [BearPi-HM_Nano 开发板介绍](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板介绍.md)
+    -   [BearPi-HM_Nano 开发搭建环境](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发搭建环境.md)
+    -   [BearPi-HM_Nano 开发板源码获取](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/源码获取.md)
+    -   [BearPi-HM_Nano 开发板如何烧录程序](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板如何烧录程序.md)
+    -   [BearPi-HM_Nano 开发板第一个示例程序](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板第一个示例程序.md)
     -   [常见问题](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/常见问题.md)
 
 # BearPi-HM_Nano案例开发
