@@ -8,8 +8,8 @@
 
 -   **[BearPi-HM_Nano 开发板如何烧录程序](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板如何烧录程序.md)**  
 
--   **[BearPi-HM_Nano 开发板第一个示例程序](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板第一个示例程序.md)**  
-
+-   **[BearPi-HM_Nano 开发第一个示例程序](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板第一个示例程序.md)**  
+-   **[BearPi-HM_Nano 案例开发](/applications/BearPi/BearPi-HM_Nano/sample/README.md)**
 -   **[常见问题](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/常见问题.md)**  
 
 

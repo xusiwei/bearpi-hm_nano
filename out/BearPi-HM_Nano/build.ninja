@@ -16,6 +16,7 @@ build app: phony obj/applications/BearPi/BearPi-HM_Nano/sample/app.stamp
 build authmanager: phony ./libs/libauthmanager.a
 build bootstrap: phony ./libs/libbootstrap.a
 build broadcast: phony ./libs/libbroadcast.a
+build button_example: phony ./libs/libbutton_example.a
 build cjson_ndk: phony obj/third_party/cJSON/cjson_ndk.stamp
 build cjson_shared: phony obj/third_party/cJSON/cjson_shared.stamp
 build cjson_static: phony ./libs/libcjson_static.a
@@ -39,7 +40,6 @@ build kv_store: phony obj/utils/native/lite/kv_store/kv_store.stamp
 build link: phony obj/domains/iot/link/link.stamp
 build native_file: phony ./libs/libnative_file.a
 build ndk: phony obj/build/lite/ndk.stamp
-build oc_mqtt: phony ./libs/liboc_mqtt.a
 build ohos: phony obj/build/lite/ohos.stamp
 build pahomqtt_ndk: phony obj/third_party/paho_mqtt/pahomqtt_ndk.stamp
 build pahomqtt_shared: phony obj/third_party/paho_mqtt/pahomqtt_shared.stamp
@@ -68,7 +68,7 @@ build wifiservice: phony ./libs/libwifiservice.a
 build wifiservice_ndk: phony obj/vendor/hisi/hi3861/hi3861_adapter/hals/communication/wifi_lite/wifiservice/wifiservice_ndk.stamp
 build xdevice: phony obj/test/xdevice/xdevice.stamp
 build applications/BearPi/BearPi-HM_Nano/sample$:app: phony obj/applications/BearPi/BearPi-HM_Nano/sample/app.stamp
-build applications/BearPi/BearPi-HM_Nano/sample/D6_iot_cloud_oc$:oc_mqtt: phony ./libs/liboc_mqtt.a
+build applications/BearPi/BearPi-HM_Nano/sample/B2_basic_button$:button_example: phony ./libs/libbutton_example.a
 build base/hiviewdfx/frameworks/hilog_lite/mini$:hilog_lite: phony ./libs/libhilog_lite.a
 build base/hiviewdfx/frameworks/hilog_lite/mini$:hilog_lite_ndk: phony obj/base/hiviewdfx/frameworks/hilog_lite/mini/hilog_lite_ndk.stamp
 build base/hiviewdfx/services/hiview_lite$:hiview_lite: phony ./libs/libhiview_lite.a
@@ -151,7 +151,7 @@ build vendor/huawei/wifi-iot/hals/utils/token$:hal_token_static: phony ./libs/li
 
 build all: phony $
     obj/applications/BearPi/BearPi-HM_Nano/sample/app.stamp $
-    ./libs/liboc_mqtt.a $
+    ./libs/libbutton_example.a $
     ./libs/libhilog_lite.a $
     obj/base/hiviewdfx/frameworks/hilog_lite/mini/hilog_lite_ndk.stamp $
     ./libs/libhiview_lite.a $
