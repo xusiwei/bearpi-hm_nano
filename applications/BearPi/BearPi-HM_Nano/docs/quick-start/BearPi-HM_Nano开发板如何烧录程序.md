@@ -4,7 +4,7 @@
 
 ## 源码获取<a name="section1545225464016"></a>
 
-开发者需要在Linux服务器上下载一套源代码，获取BearPi-HM_Nano源码,源码获取方式，请见[源码获取](/applications/BearPi/BearPi-HM_Nano/docs/quick-start//源码获取.md)。
+开发者需要在Linux服务器上下载一套源代码，获取BearPi-HM_Nano源码,源码获取方式，请见[源码获取](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/源码获取.md)。
 
 ## 源码编译<a name="section1736014117148"></a>
 
@@ -26,7 +26,10 @@
 
     ![](figures/zh-cn_image_0000001054599199.png)
 
-2.  进入代码根路径，并在终端窗口，执行编译脚本命令启动编译“python build.py BearPi-HM_Nano”。
+2.  进入代码根路径，并在终端窗口，执行编译脚本命令启动编译“`python build.py BearPi-HM_Nano`”。
+    
+    若是从hpm网站获取的代码，则编译命令为“`hpm dist`”
+
 
     **图 3**  在终端界面执行编译命令示意图<a name="fig17727115215612"></a>  
     

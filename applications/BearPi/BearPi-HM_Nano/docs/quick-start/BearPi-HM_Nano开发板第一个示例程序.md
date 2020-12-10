@@ -91,4 +91,4 @@ wifi init success!
 
 ## 下一步学习<a name="section9712145420182"></a>
 
-恭喜，您已完成BearPi-HM_Nano开发板快速上手！
+恭喜，您已完成BearPi-HM_Nano开发板快速上手,可以进行[BearPi-HM_Nano案例开发](/applications/BearPi/BearPi-HM_Nano/sample/README.md)了。
