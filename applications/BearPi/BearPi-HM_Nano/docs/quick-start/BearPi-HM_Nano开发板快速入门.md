@@ -2,6 +2,8 @@
 
 -   **[BearPi-HM_Nano开发板介绍](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板介绍.md)**  
 
+-   **[BearPi-HM_Nano源码获取](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/源码获取.md)**  
+
 -   **[BearPi-HM_Nano开发搭建环境](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发搭建环境.md)**  
 
 -   **[BearPi-HM_Nano开发板如何烧录程序](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板如何烧录程序.md)**  
