@@ -1,4 +1,4 @@
-# BearPi-HM_Nano介绍
+# BearPi-HM_Nano 介绍
 
 BearPi-HM_Nano开发板是一块专门为鸿蒙OS设计的鸿蒙OS开发板，板载高度集成的2.4GHz WLAN SoC芯片Hi3861，并板载NFC电路及标准的E53接口，标准的E53接口可扩展智能加湿器、智能台灯、智能安防、智能烟感等案例
 
@@ -97,7 +97,7 @@ BearPi-HM_Nano开发板是一块专门为鸿蒙OS设计的鸿蒙OS开发板，�
 
 
 
-# BearPi-HM_Nano快速上手
+# BearPi-HM_Nano 快速上手
 
 -   [BearPi-HM_Nano开发板快速入门](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板快速入门.md)
     -   [BearPi-HM_Nano开发板介绍](/applications/BearPi/BearPi-HM_Nano/docs/quick-start/BearPi-HM_Nano开发板介绍.md)
@@ -108,7 +108,7 @@ BearPi-HM_Nano开发板是一块专门为鸿蒙OS设计的鸿蒙OS开发板，�
 
 
 
-# BearPi-HM_Nano案例开发
+# BearPi-HM_Nano 案例开发
 
 BearPi-HM_Nano 提供的例程多达 24个，每个例程都有非常详细的注释，代码风格统一，按照基本例程到高级例程的方式编排，方便初学者由浅入深逐步学习。开发者拿到工程后经过简单的编译和下载即可看到实验现象。
 
